@@ -14,4 +14,4 @@ app.get('/creatucuenta', (req,res) => res.sendFile(path.join(__dirname, 'views',
 app.get('/ingresa', (req,res) => res.sendFile(path.join(__dirname, 'views', 'ingresa.html')));
 app.get('/miscompras', (req,res) => res.sendFile(path.join(__dirname, 'views', 'miscompras.html')));
 
-app.listen(port,() => console.log(`Server running in http://localhost:${port}`) ) 
+app.listen(port,() => console.log(`Server running in http://localhost:${port}`) )
