@@ -1,0 +1,66 @@
+
+body{
+background-color:  #eac926 ;
+font-weight: 12px;
+
+}
+body header{
+    font-family: Roboto;
+}
+
+body header div{
+text-align: center;
+font-size: 12px;
+}
+
+body header nav{
+    font-size: 12px;
+}
+
+body header ul {
+margin: 0%;
+padding: 0%;
+}
+
+body header nav form i{
+    background-color: white;
+   padding:2.5px;
+ border-style: groove;
+}
+
+
+main{
+    font-family: Roboto;
+}
+
+footer{
+    background-color: white;
+    font-family: Roboto;
+    font-size: 12px;
+   padding: 20%;
+   text-align: center;
+
+}
+footer section i{
+    color: #1259c3;
+    font-size: 2em;
+    margin-top: 10px;
+}
+footer .section1 i{
+    color: #1259c3;
+    font-size: 2em;
+    margin-top: 10px;
+}
+footer .seccion2 i{
+    color: #1259c3;
+    font-size: 2em;
+    margin-top: 10px;
+  
+}
+footer .seccion3 i {
+    color: black;
+    font-family: Roboto;
+    font-size: 12px;
+   margin: initial;
+  text-align: end;
+}
